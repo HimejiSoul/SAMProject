@@ -140,7 +140,7 @@ const Header = () => {
                   className="header-logo block w-full py-5 lg:py-2"
                 >
                   <Image
-                    src="/images/logo/logo-sam.svg"
+                    src="/images/logo/logo.svg"
                     alt="logo"
                     width={120}
                     height={30}
