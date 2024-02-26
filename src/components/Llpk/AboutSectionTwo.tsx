@@ -6,7 +6,7 @@ const Llpk = () => {
   return (
     <section
       id="produkKami"
-      className={`${cera.className} flex max-h-full min-h-screen flex-col bg-[#3C5896]/15 lg:flex-row`}
+      className={`${cera.className} flex h-screen max-h-full min-h-screen flex-col bg-white lg:flex-row`}
     >
       <div className="flex h-fit flex-row items-center gap-5 px-20 py-32 md:items-start lg:flex-col lg:py-48 ">
         <div className="h-[250px] w-[250px] bg-[#3C5896] px-5 pt-5 text-3xl font-bold text-white">

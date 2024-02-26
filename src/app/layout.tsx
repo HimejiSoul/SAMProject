@@ -23,7 +23,7 @@ export default function RootLayout({
       */}
       <head />
 
-      <body className={`bg-[#FCFCFC] dark:bg-black ${gotham.className}`}>
+      <body className={` ${gotham.className}`}>
         <Providers>
           <Header />
           {children}

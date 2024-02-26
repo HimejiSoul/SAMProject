@@ -6,9 +6,9 @@ const InsightKami = () => {
   return (
     <section
       id="insightKami"
-      className={`${cera.className} relative max-h-fit min-h-screen overflow-hidden `}
+      className={`${cera.className} relative max-h-fit min-h-screen overflow-hidden bg-[#E1E1E1] `}
     >
-      <div className="absolute bottom-0 right-2 z-[-1]">
+      <div className="absolute bottom-0 right-2 z-10">
         <Image
           src="/images/hero/insightkami.svg"
           alt="logo"
